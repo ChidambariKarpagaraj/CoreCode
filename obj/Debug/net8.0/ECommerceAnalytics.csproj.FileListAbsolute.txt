@@ -199,3 +199,4 @@ C:\Users\CKARPAG\source\repos\ECommerceAnalytics\ECommerceAnalytics\bin\Debug\ne
 C:\Users\CKARPAG\source\repos\ECommerceAnalytics\ECommerceAnalytics\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
 C:\Users\CKARPAG\source\repos\ECommerceAnalytics\ECommerceAnalytics\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
 C:\Users\CKARPAG\source\repos\ECommerceAnalytics\ECommerceAnalytics\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\CKARPAG\source\repos\ECommerceAnalytics\ECommerceAnalytics\obj\Debug\net8.0\ECommerceAnalytics.sourcelink.json
